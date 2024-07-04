@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, div, ol, li, a{
+    text-align: center;
+    justify-content: center;
+    
+}
